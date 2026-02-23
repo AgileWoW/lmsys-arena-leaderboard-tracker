@@ -1,0 +1,9 @@
+Date,Model,Arena_Elo,Coding_Score,Organization,License
+2026-02-23,Claude Opus 4.6 Thinking,1506,1554,Anthropic,Proprietary
+2026-02-23,Gemini 3.1 Pro,1505,1531,Google,Proprietary
+2026-02-23,Gemini 3 Pro,1486,1444,Google,Proprietary
+2026-02-23,Grok-4.1 Thinking,1475,1483,xAI,Proprietary
+2026-02-19,Claude Opus 4.6,1490,1530,Anthropic,Proprietary
+2026-02-19,DeepSeek-R1-0528,1426,1436,DeepSeek,MIT
+2026-02-19,GPT-5.1 High,1464,1466,OpenAI,Proprietary
+2026-01-14,GPT-5 (Standard),1413,1421,OpenAI,Proprietary
